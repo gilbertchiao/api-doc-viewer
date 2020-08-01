@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDE / .Editor
+.idea
+
+# Vim swap files
+*.swp
+
+# Apache password file
+.htpasswd

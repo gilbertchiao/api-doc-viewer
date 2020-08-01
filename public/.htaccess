@@ -1,0 +1,5 @@
+# 若要加上密碼驗證，請移除以下註解，並參考 README.md 說明進行 .htpasswd 設定。
+#AuthName "API Viewer"
+#AuthType Basic
+#AuthUserFile __REQUIRED__/.htpasswd  # 請填寫 .htpasswd 之絕對路徑
+#require valid-user
